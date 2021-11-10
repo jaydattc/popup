@@ -1,4 +1,5 @@
 # Popup
 ## Usage: 
-- run: `ruby main.rb spec/webserver_example.log`
-- test: `bundle exec rake spec`
+- Install deps - `bundle install`
+- Run  - `ruby main.rb spec/webserver_example.log`
+- Test - `bundle exec rake spec`
